@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(152, 152, 156);
+}
+
+#container1{
+    margin : 20px 10% 20px 10%;
+}
+
+#container #innercontainer1{
+    float : right;
+}
+
+.span1{
+    float : right;
+    margin-left : 15px;
+}
+
+#drop{
+    border: none;
+    background : transparent;
+}
+
+#btn{
+    background-color: transparent;
+    border-radius : 5px;
+    border : 0.5px solid black;
+}
+
+#container2{
+    margin : 3% 13% 3% 13%;
+}
+
+.size{
+    font-family: fantasy;
+    font-size: 1.5em;
+    margin-left : 10px;
+}
+
+#span2{
+    float : right;
+}
+
+#glysize{
+    font-size : 25px;
+}
+
+#container3{
+    margin : 3% 12% 1% 12%;
+    border : 1px solid white;
+    border-radius : 10px;
+    padding : 30px 50px 30px 50px;
+    background-color : white;
+    box-shadow : 2px 2px;
+}
+
+#div32{
+    margin-top: 10px;
+}
+
+#div33{
+    margin-top : 10px;
+}
+
+#div34{
+    margin-top: 10px;
+}
+
+#div35{
+    margin-top: 10px;
+}
+
+#foot{
+    text-align : center;
+}
+
